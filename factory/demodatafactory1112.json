@@ -1,0 +1,9 @@
+{
+	"name": "demodatafactory1112",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8115f2bb-180b-4c64-9b50-9a24d552270e",
+		"tenantId": "abbe6d32-f9d3-4265-81c0-602301b3ea4e"
+	}
+}
