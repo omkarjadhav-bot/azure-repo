@@ -1,5 +1,13 @@
 {
 	"name": "demodatafactory1112",
+	"properties": {
+		"globalParameters": {
+			"country": {
+				"type": "string",
+				"value": "INDIA"
+			}
+		}
+	},
 	"location": "centralus",
 	"identity": {
 		"type": "SystemAssigned",
