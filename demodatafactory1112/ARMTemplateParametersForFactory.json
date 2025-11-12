@@ -8,8 +8,8 @@
 		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
-		"AzureDataLakeStorage1_properties_typeProperties_url": {
-			"value": "https://mystorageacc9325.dfs.core.windows.net/"
+		"AzureSqlDatabase1_password": {
+			"value": ""
 		}
 	}
 }
