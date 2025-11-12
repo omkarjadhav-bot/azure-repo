@@ -140,7 +140,10 @@
 							"outputs": [
 								{
 									"referenceName": "DelimitedText2",
-									"type": "DatasetReference"
+									"type": "DatasetReference",
+									"parameters": {
+										"foldername": "outbound"
+									}
 								}
 							]
 						}
